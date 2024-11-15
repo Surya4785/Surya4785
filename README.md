@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=#ff0000&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=WELCOME+TO+MY+PROFILE" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=WELCOME+TO+MY+PROFILE" width="auto" height="35"/>
 </p>
 
 </p>
@@ -7,7 +7,7 @@
    <img src="https://watermark.lovepik.com/photo/40035/2974.jpg_wh1200.jpg" width="500" height="300" alt="Gif Description">
 </div>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Surya+Prakash+Yadav;Surya+Prakash+Yadav" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Surya+Prakash+Yadav;Surya+Prakash+Yadav" width="auto" height="35"/>
 </p>
 
 <p align="center">
