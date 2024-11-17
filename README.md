@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** java, javaScript and  DSA in C++ **
 
-- 📫 How to reach me "**suryaprakash8707yadav@gmail.com**"
+- 📫 How to reach me -  **suryaprakash8707yadav@gmail.com**
 
 - ⚡ Fun fact ** I am a full time singer, writer and part time coder. **
 
