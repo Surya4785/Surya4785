@@ -27,6 +27,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya4785&show_icons=true&locale=en&layout=compact" alt="Surya4785" /></p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya4785&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya4785&show_icons=true&locale=en" alt="Surya4785" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya4785&" alt="Surya4785" /></p>
