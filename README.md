@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<p align="left"> <a href="https://x.com/i/flow/login?redirect_after_login=%2FYadav_Surya_17" target="blank"><img src="https://img.shields.io/twitter/follow/Yadav_Surya_17?logo=twitter&style=for-the-badge" alt="Yadav_Surya_17" /></a> </p>
+
 - 🌱 I’m currently learning ** node.js and  DSA in C++ **
 
 - 📫 How to reach me -  **suryaprakash8707yadav@gmail.com**
