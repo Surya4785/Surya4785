@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **suryaprakash8707yadav@gmail.com**
 
-- ⚡ Fun fact **I am a full time singer, writer and part time coder. **
+- ⚡ Fun fact ** I am a full time singer, writer and part time coder. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
