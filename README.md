@@ -27,13 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya4785&show_icons=true&locale=en&layout=compact" alt="Surya4785" /></p>
 
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Surya4785&theme=transparent" height="180em" alt="Stats"/></p>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Surya4785&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/></p>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Surya4785&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/></p>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Surya4785&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/></p>
-  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya4785&theme=transparent" height="180em" alt="Commitments"/></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya4785&show_icons=true&locale=en" alt="Surya4785" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya4785&" alt="Surya4785" /></p>
