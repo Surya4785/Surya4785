@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning ** java, javaScript and  DSA in C++ **
+- 🌱 I’m currently learning ** node.js, javaScript and  DSA in C++ **
 
 - 📫 How to reach me -  **suryaprakash8707yadav@gmail.com**
 
