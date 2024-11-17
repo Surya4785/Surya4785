@@ -1,4 +1,5 @@
-![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)<h1 align="center">Hi 👋, I'm Surya </h1>
+![MasterHead](![image](https://github.com/user-attachments/assets/49cb6b37-30b8-4c89-94a3-fe7c1df9409c)
+)<h1 align="center">Hi 👋, I'm Surya </h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/boy-kid-coder-programming-laptop-digital-technology_1282444-261918.jpg">
 
