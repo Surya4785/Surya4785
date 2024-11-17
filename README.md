@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/595f5bc4-e0e3-4e9d-8112-453d3be820f0)
-<h1 align="center">Hi 👋, I'm Surya </h1>
+<h1 align="center">Hi 👋, I'm *Surya </h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/boy-kid-coder-programming-laptop-digital-technology_1282444-261918.jpg">
 
