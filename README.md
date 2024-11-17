@@ -4,7 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a60e3e90-a463-4a30-b37f-fd5920ad2cc6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surya4785&label=Profile%20views&color=0e75b6&style=flat" alt="Surya4785" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left"> <a href="https://x.com/i/flow/login?redirect_after_login=%2FYadav_Surya_17" target="blank"><img src="https://img.shields.io/twitter/follow/Yadav_Surya_17?logo=twitter&style=for-the-badge" alt="Yadav_Surya_17" /></a> </p>
