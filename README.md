@@ -1,6 +1,6 @@
 ![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)<h1 align="center">Hi 👋, I'm Surya </h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/boy-kid-coder-programming-laptop-digital-technology_1282444-261918.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Surya4785&label=Profile%20views&color=0e75b6&style=flat" alt="Surya4785" /> </p>
 
