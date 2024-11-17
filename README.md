@@ -1,5 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/595f5bc4-e0e3-4e9d-8112-453d3be820f0)
 <h1 align="center">Hi👋, This is Obedient *Surya... </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Surya4785&label=Profile%20views&color=0e75b6&style=flat" alt="Surya4785" /> </p>
 <h3 align="center">A passionate coder who constantly seeks out for the innovative solutions to everyday problems.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/a60e3e90-a463-4a30-b37f-fd5920ad2cc6">
