@@ -45,26 +45,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  </p>###  **Achievements & Certifications:**
-
-- **📘 Supervised Machine Learning: Regression and
-Classification** | *Coursera*  
-  *Build & train supervised machine learning models for prediction & binary classification tasks, including linear regression & logistic regression*
-
-- **🌐 Mastering Data Structure and Algorithm: Theory To Practice** |
-  *Gained essential skills in DSA, fostering a collaborative learning experience.*  
-  *Organized By Centre for Professional Enhancement*
-
-- **💬 Prompt Engineering for ChatGPT** | *Coursera, in collaboration with Vanderbilt University*  
-  *Learned advanced prompt patterns and techniques for utilizing large language models effectively.*
-
-- **💻 SQL for Data Science** | *Great Learning*  
-  *Learned prominent SQL operations to perform Data Science tasks.*
-
-- **🖇 Become a Blockchain Developer** | *Linkedin Learning*  
-  *Top Skills covered:Cryptography,Blockchain,Ethereum.*
-
-
+  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya4785&show_icons=true&locale=en&layout=compact" alt="Surya4785" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Surya4785&show_icons=true&locale=en" alt="Surya4785" /></p>
