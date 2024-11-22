@@ -22,6 +22,7 @@
 <a href="https://www.facebook.com/shouryakumar.yadav.1?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nawab Surya" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Nawab_Surya_Edits_..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Nawab_Surya_Edits_..." height="30" width="40" /></a>  
 <a href="https://leetcode.com/u/Surya4785/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Surya4785" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Surya4785" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Surya4785" height="30" width="40" /></a>
   
 </p>
 <h3 align="left">Languages and Tools:</h3>
